@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648032662 source:c:\users\ekong\desktop\anita\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1648033350 source:c:\users\ekong\desktop\anita\first.c
+	<stdio.h>
+
